@@ -1,0 +1,25 @@
+{
+  "name": "medvar72.github.io",
+  "homepage": "https://github.com/medvar72/medvar72.github.io",
+  "authors": [
+    "medvar72 <medvar72@gmail.com>"
+  ],
+  "description": "my github site",
+  "main": "index.html",
+  "keywords": [
+    "blogs"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.6.1"
+  }
+}
